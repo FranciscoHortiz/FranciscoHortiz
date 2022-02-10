@@ -15,6 +15,7 @@
  <div>
 
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="powerbi" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg">
    
   </div>
   
