@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranciscoHortiz
 - 🎓 I'm a Production Engineer and now I'm doing postgraduate studies in Data Science.
-- 👨🏻‍💻 I joined the platform to learn and contribute to projects as you improve my knowledge in the area.
+- 👨🏻‍💻 I joined the platform to learn and contribute to projects as i improve my knowledge in the area.
 
 ##
 
